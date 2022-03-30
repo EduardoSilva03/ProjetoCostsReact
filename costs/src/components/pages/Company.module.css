@@ -1,0 +1,19 @@
+.company_container {
+    padding: 2em;
+}
+
+.company_container span {
+    color: #Ffbb33;
+    padding: 0 .2em;
+    background-color: #222;
+}
+
+.company_container p {
+    text-align: justify;
+}
+
+.title_container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
